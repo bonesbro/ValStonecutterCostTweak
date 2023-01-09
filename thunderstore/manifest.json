@@ -1,7 +1,7 @@
 {
   "name": "BronzeStonecutting",
   "version_number": "1.0.1",
-  "website_url": "https://github.com/bonesbro/ValFloorsAreRoofs",
+  "website_url": "https://github.com/bonesbro/ValStonecutterCostTweak",
   "description": "This changes the stonecutter bench to require bronze instead of iron.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.1901"
